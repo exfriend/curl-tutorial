@@ -1,0 +1,12 @@
+### Linux template
+*~
+
+vendor/
+.idea
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# Created by .ignore support plugin (hsz.mobi)

@@ -1,0 +1,21 @@
+{
+  "name": "exfriend/curl-tutorial",
+  "description": "Tutorial on cURL",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "exfriend",
+      "email": "i@zlad.tk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "helpers.php"
+    ]
+  }
+}
